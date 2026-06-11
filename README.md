@@ -20,3 +20,45 @@ This project was created as a fun way to practice Python programming, Turtle gra
 - Simple and beginner-friendly Python code.
 <img width="1439" height="934" alt="image" src="https://github.com/user-attachments/assets/cd541588-c618-48a1-9e05-4a6fe143eab9" />
 
+## ⚙️ Requirements
+
+To run this project, you need:
+
+- Python 3.x installed
+- No external libraries required (uses built-in modules only):
+  - `turtle`
+  - `random`
+
+
+🎮 How to Play
+  
+A flag is drawn on the screen using Turtle graphics.
+You are prompted in the terminal to guess the country name.
+Type your answer and press Enter.
+If correct → you gain a point.
+If wrong → you lose a life.
+The game ends when you run out of lives or all flags are guessed.
+
+📄 License
+
+This project is open-source and free to use.
+
+You are free to:
+
+Use
+Modify
+Distribute
+Improve
+
+No attribution is required, but it is appreciated.
+
+Licensed under the MIT License.
+
+👨‍💻 Author
+
+Created by: KarnezisThanos
+Feel free to contribute or improve this project!
+
+⭐ Enjoy the Game!
+
+Have fun learning flags and improving your geography skills while coding with Python Turtle!
