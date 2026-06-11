@@ -18,3 +18,5 @@ This project was created as a fun way to practice Python programming, Turtle gra
 - Prevents the same flag from appearing twice after a correct guess.
 - Educational gameplay that helps players learn world flags.
 - Simple and beginner-friendly Python code.
+<img width="1439" height="934" alt="image" src="https://github.com/user-attachments/assets/cd541588-c618-48a1-9e05-4a6fe143eab9" />
+
